@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(65, 71, 73);
+  }
+
+  button {
+    transition-duration: 0.4s;
+    border-radius: 12px;
+  }
+  
+  button:hover {
+    background-color: #222524; /* Green */
+    color: white;
+  }
